@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator-abc-company",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cui1818/Team-Profile-Generator-ABC-company.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cui1818/Team-Profile-Generator-ABC-company/issues"
+  },
+  "homepage": "https://github.com/Cui1818/Team-Profile-Generator-ABC-company#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  }
+}
